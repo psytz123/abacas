@@ -1,0 +1,24 @@
+# ML Engine Dependencies
+numpy==1.24.3
+pandas==2.0.1
+scikit-learn==1.2.2
+xgboost==1.7.5
+lightgbm==3.3.5
+scikit-optimize==0.9.0
+matplotlib==3.7.1
+seaborn==0.12.2
+joblib==1.2.0
+
+# API and web
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.8
+python-multipart==0.0.6
+
+# Data processing
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Utilities
+tqdm==4.65.0
+typing-extensions==4.6.3
